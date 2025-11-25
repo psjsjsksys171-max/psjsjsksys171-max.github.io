@@ -4,6 +4,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>我的菜谱记录</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#facc15">
 
 <!-- PWA manifest -->
 <link rel="manifest" href="manifest.json" />
